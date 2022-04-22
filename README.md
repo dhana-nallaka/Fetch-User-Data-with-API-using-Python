@@ -11,6 +11,6 @@ The API for posts is https://dummyapi.io/data/v1/user/60d0fe4f5311236168a109ca/p
 **The Source Code URL: https://github.com/dhana-nallaka/Fetch-User-Data-with-API-using-Python**<br/><br/>
 
 -->Here the main.py is just for printing the information without storing in the DataBase<br/>
--->usersdata.py is the complete solution for storing in the database by fetching the details from the website
+-->usersdata.py is the complete solution for storing in the database by fetching the details from the website<br/>
 -->usersdata.db is the database created by using SQLite3<br/><br/>
 
